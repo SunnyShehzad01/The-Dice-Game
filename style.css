@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    background: crimson;
+}
+h1{
+    padding-top: 5rem;
+    font-size: 100px;
+    margin: 10px auto;
+}
+img{
+    margin: 100px;
+    width: 150px;
+    height: 150px;
+}
+
+.playerOne{
+    display: inline-block;
+    margin-right: 150px;
+}
+
+.playerTwo{
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.btn{
+    padding: 30px 50px;
+    border-radius: 12px;
+    background-color:#fff;
+    font-size: large;
+    
+}
